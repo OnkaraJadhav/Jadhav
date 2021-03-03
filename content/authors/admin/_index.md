@@ -68,7 +68,7 @@ email: ""
 highlight_name: false
 ---
 
-I am an early-stage researcher and a Marie Curie fellow in the Reduced Order Modelling, Simulation and Optimization of Coupled Systems project. My project aims to develop a parametric model order reduction approach for high-dimensional convection-diffusion reaction PDEs arising in financial risk analysis. 
+I am a Ph.D. student and a Marie Curie fellow in the Reduced Order Modelling, Simulation and Optimization of Coupled Systems project. My project aims to develop a parametric model order reduction approach for high-dimensional convection-diffusion reaction PDEs arising in financial risk analysis. 
 
 My primary research interest is in applied and numerical mathematics. I enjoy solving model order reduction and machine learning problems. 
 
