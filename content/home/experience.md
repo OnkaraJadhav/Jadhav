@@ -25,21 +25,36 @@ experience:
   - title: Early Stage Researcher
     company: Technical University of Berlin and MathConsult GmbH
     company_url: ''
-    location: California
-    date_start: '2017-01-01'
+    location: Berlin
+    date_start: '2018-11-01'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Financial risk analysis.
+        * Numerical methods and their analysis for simulation.
+        * Model order reduction for parametric high dimensional models.
+        * Data analysis.
         
-  - title: Professor
-    company: University X
+  - title: Research Assistant
+    company: University of Rostock, Collaborative Research Center ELAINE
     company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Rostock
+    date_start: '2017-10-01'
+    date_end: '2018-09-30'
+    description: |2-
+          Responsibilities include:
+          
+        * Designed multiphysical models of thermoelectric generators (TEGs).
+        * Thermal and electrothermal simulations of TEG.
+        * Parametric model order reduction.
+        * Data analysis.
+        
+  - title: Teaching Assistant
+    company: University of Rostock
+    company_url: ''
+    location: Rostock
+    date_start: '2017-10-01'
+    date_end: '2018-09-30'
+    description: Compact modeling of large scale dynamical systems and Modeling and Simulation of Mechatronics Systems.
 ---
