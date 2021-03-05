@@ -43,7 +43,6 @@ experience:
     date_start: '2017-10-01'
     date_end: '2018-09-31'
     description: |2-
-    
          Project Title: Energy-autonomous platform - Nonlinear model order reduction of electrically active implants.
          Responsibilities include:
         
@@ -58,15 +57,13 @@ experience:
     location: Rostock, Germany
     date_start: '2017-10-01'
     date_end: '2018-09-31'
-    description: 
-    
+    description: |2-
         Course 1: Compact modeling of large scale dynamical systems.
+        Course 2: Modeling and Simulation of Mechatronics Systems.
         
         * Conducted tutorials of model order reduction and mor4ansys.
         * Conducted numerical exercises.
         * Supervised students for their projects of model order reduction.
-        * 
-        Course 2: Modeling and Simulation of Mechatronics Systems.
         
         * Conducted tutorials of ANSYS Mechanical.
         * Supervised students for their software projects.
