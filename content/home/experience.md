@@ -22,43 +22,24 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Early Stage Researcher
-    company: Technical University of Berlin & MathConsult GmbH
+  - title: CEO
+    company: GenCoin
     company_url: ''
-    location: Berlin, Germany
-    date_start: '2018-11-01'
+    location: California
+    date_start: '2017-01-01'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Financial risk analysis.
-        * Numerical methods and their analysis for simulation.
-        * Data analysis.
-        * Model order reduction for parametric high dimensional models.
-
-  - title: Research Assistant
-    company: University of Rostock, Collaborative Research Center ELAINE
-    company_url: ''
-    location: Rostock, Germany
-    date_start: '2017-10-01'
-    date_end: '2018-09-31'
-    description: |2-
-        Responsibilities include:
+        * Analysing
+        * Modelling
+        * Deploying
         
-        * Designed multiphysical models of thermoelectric generators (TEGs).
-        * Thermal and electrothermal simulations of TEG.
-        * Parametric model order reduction.
-        * Electrical system simulation.
-  
-  - title: Teaching Assistant
-    company: University of Rostock, Department of Computer Science and Electric Engineering
+  - title: Professor
+    company: University X
     company_url: ''
-    location: Rostock, Germany
-    date_start: '2017-10-01'
-    date_end: '2018-09-31'
-    description: |2-
-        Responsibilities include:
-        
-        * Course 1: Compact modeling of large scale dynamical systems.
-        * Course 2: Modeling and Simulation of Mechatronics Systems.
+    location: California
+    date_start: '2016-01-01'
+    date_end: '2016-12-31'
+    description: Taught electronic engineering and researched semiconductor physics.
 ---
