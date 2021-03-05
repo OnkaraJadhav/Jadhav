@@ -36,6 +36,20 @@ experience:
         * Data analysis.
         * Model order reduction for parametric high dimensional models.
 
+  - title: Research Assistant
+    company: University of Rostock, Collaborative Research Center ELAINE
+    company_url: ''
+    location: Rostock, Germany
+    date_start: '2017-10-01'
+    date_end: '2018-10-01'
+    description: |2-
+        Responsibilities include:
+        
+        * Designed multiphysical models of thermoelectric generators (TEGs).
+        * Thermal and electrothermal simulations of TEG.
+        * Parametric model order reduction.
+        * Electrical system simulation.
+  
   - title: Early Stage Researcher
     company: Technical University of Berlin & MathConsult GmbH
     company_url: ''
@@ -48,5 +62,5 @@ experience:
         * Financial risk analysis.
         * Numerical methods and their analysis for simulation.
         * Data analysis.
-        * Model order reduction for parametric high dimensional models.
+        * Model order reduction for parametric high dimensional models. 
 ---
