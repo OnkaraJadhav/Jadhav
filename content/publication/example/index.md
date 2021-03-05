@@ -34,7 +34,7 @@ publication_short: In *arxiv*
 abstract: This paper presents a model order reduction approach for large scale high dimensional parametric models arising in the analysis of financial risk. To understand the risks associated with a financial product, one has to perform several thousand computationally demanding simulations of the model which require efficient algorithms. We establish a model reduction  approach based on a variant of the proper orthogonal decomposition method to generate small model approximations for the high dimensional parametric convection-diffusion-reaction partial differential equations. This approach requires to solve the full model at some selected parameter values to generate a reduced  basis. We propose an adaptive greedy sampling technique based on surrogate modeling for the selection of the sample parameter set. The new technique is analyzed, implemented, and tested on  industrial data of a floater with cap and floor under the Hull-White model. The results illustrate that the reduced model approach works well for short-rate models.
 
 # Summary. An optional shortened abstract.
-# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: 
 
 tags: []
 
@@ -67,15 +67,14 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- example
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
 
 {{% callout note %}}
