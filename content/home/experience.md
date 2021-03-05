@@ -41,7 +41,7 @@ experience:
     company_url: ''
     location: Rostock, Germany
     date_start: '2017-10-01'
-    date_end: '2018-10-01'
+    date_end: '2018-09-31'
     description: |2-
         Responsibilities include:
         
@@ -50,17 +50,15 @@ experience:
         * Parametric model order reduction.
         * Electrical system simulation.
   
-  - title: Early Stage Researcher
-    company: Technical University of Berlin & MathConsult GmbH
+  - title: Teaching Assistant
+    company: University of Rostock, Department of Computer Science and Electric Engineering
     company_url: ''
-    location: Berlin, Germany
-    date_start: '2018-11-01'
-    date_end: ''
+    location: Rostock, Germany
+    date_start: '2017-10-01'
+    date_end: '2018-09-31'
     description: |2-
         Responsibilities include:
         
-        * Financial risk analysis.
-        * Numerical methods and their analysis for simulation.
-        * Data analysis.
-        * Model order reduction for parametric high dimensional models. 
+        * Course 1: Compact modeling of large scale dynamical systems.
+        * Course 2: Modeling and Simulation of Mechatronics Systems.
 ---
