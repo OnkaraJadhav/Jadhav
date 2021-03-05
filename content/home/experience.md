@@ -54,5 +54,8 @@ experience:
     location: Rostock
     date_start: '2017-10-01'
     date_end: '2018-09-30'
-    description: Compact modeling of large scale dynamical systems and Modeling and Simulation of Mechatronics Systems.
+    description: |2-
+    
+        * Compact modeling of large scale dynamical systems.
+        * Modeling and Simulation of Mechatronics Systems.
 ---
