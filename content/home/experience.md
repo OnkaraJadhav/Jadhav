@@ -35,4 +35,18 @@ experience:
         * Numerical methods and their analysis for simulation.
         * Data analysis.
         * Model order reduction for parametric high dimensional models.
+
+  - title: Early Stage Researcher
+    company: Technical University of Berlin & MathConsult GmbH
+    company_url: ''
+    location: Berlin, Germany
+    date_start: '2018-11-01'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        
+        * Financial risk analysis.
+        * Numerical methods and their analysis for simulation.
+        * Data analysis.
+        * Model order reduction for parametric high dimensional models.
 ---
