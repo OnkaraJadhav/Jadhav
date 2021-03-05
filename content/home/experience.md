@@ -29,7 +29,6 @@ experience:
     date_start: '2018-11-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
         
         * Financial risk analysis.
         * Numerical methods and their analysis for simulation.
@@ -43,7 +42,6 @@ experience:
     date_start: '2017-10-01'
     date_end: '2018-09-30'
     description: |2-
-          Responsibilities include:
           
         * Designed multiphysical models of thermoelectric generators (TEGs).
         * Thermal and electrothermal simulations of TEG.
