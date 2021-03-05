@@ -76,7 +76,6 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 
----
 title: "Model order reduction for parametric high dimensional models in the analysis of financial risk"
 
 # Authors
